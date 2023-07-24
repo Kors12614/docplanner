@@ -1,0 +1,19 @@
+.Logo {
+    width: 268px;
+    height: 33px;
+}
+.WORDS
+{position: relative;
+    float: right;
+    justify-content: space-around;
+}
+.container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 3;
+    background: hsla(0,0%,100%,.98);
+    transition: box-shadow .25s ease 0s;
+}
+*{list-style-type: none}
